@@ -16,14 +16,14 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Paraguay, South America.
 
 - 🔭 I’m working as a Fullstack Engineer and contributing in web applications.
-- 🌱 Exploring NextJS.
+- 🌱 Exploring NuxtJS.
 - ⚡ In my free time I teach coding in my university, read a lot or excercise (I like powerlifting) .
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devpbeat)
 
 ---
 
+<!--
 ### 🛠 &nbsp;Languages and Tools :
-
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -42,7 +42,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
-
+!-->
 ---
 
 ### 🔥 &nbsp; My Stats :
